@@ -31,7 +31,7 @@ The player can choose:
 - the algorithm used by the computer: Minimax or Alpha-Beta
 - the difficulty of the game: beginner, intermediate, advanced
 - the heuristic
-- wether it wants the black or the white pieces
+- wether it wants to play with the black or the white pieces
 
 | <img src="https://user-images.githubusercontent.com/57111995/86347731-61ff5c00-bc67-11ea-9e25-bcec77485a81.png" data-canonical-src="https://user-images.githubusercontent.com/57111995/86347731-61ff5c00-bc67-11ea-9e25-bcec77485a81.png" width="500" height="600" />  | <img src="https://user-images.githubusercontent.com/57111995/86347732-6297f280-bc67-11ea-9c81-183cf1ae8692.png" data-canonical-src="https://user-images.githubusercontent.com/57111995/86347732-6297f280-bc67-11ea-9c81-183cf1ae8692.png" width="500" height="600" /> |
 |-|-|
